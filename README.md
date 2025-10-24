@@ -14,7 +14,7 @@
 ## 🚀 一键安装
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/gokeep-projects/jar-manager/main/jm | sudo bash -s install
+wget  https://raw.githubusercontent.com/gokeep-projects/jar-manager/main/jm | sudo bash ./jm install
 ```
 
 </div>
@@ -66,7 +66,7 @@ JM (JAR Manager) 是一个功能强大的Shell脚本工具，专为简化Java JA
 ### 一键安装（推荐）
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/gokeep-projects/jar-manager/main/jm | sudo bash -s install
+wget  https://raw.githubusercontent.com/gokeep-projects/jar-manager/main/jm | sudo bash ./jm install
 ```
 
 ### 手动安装
@@ -100,7 +100,7 @@ jm help
 
 #### 方式一：一键安装脚本（推荐）
 ```bash
-curl -fsSL https://raw.githubusercontent.com/gokeep-projects/jar-manager/main/jm | sudo bash -s install
+wget https://raw.githubusercontent.com/gokeep-projects/jar-manager/main/jm | sudo bash ./jm install
 ```
 
 #### 方式二：手动下载安装
